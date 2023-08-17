@@ -1,0 +1,15 @@
+aff_last_param/aff_last_param.c: In function ‘main’:
+aff_last_param/aff_last_param.c:17:17: warning: implicit declaration of function ‘write’ [-Wimplicit-function-declaration]
+   17 |                 write(1, av[ac-1][i], 1);
+      |                 ^~~~~
+
+$
+-------
+chats$
+-------
+j'aime le savon$
+-------
+zz sent le poney$
+-------
+AAAAaaaaaaaaAa$
+-------

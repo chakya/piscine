@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"stdlib.h": "c",
+		"unistd.h": "c",
+		"string_view": "c",
+		"array": "c",
+		"initializer_list": "c",
+		"ranges": "c",
+		"utility": "c"
+	}
+}

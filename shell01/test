@@ -1,0 +1,25 @@
+echo no 1
+cat ex01/print_groups.sh 
+echo
+ex01/print_groups.sh 
+echo
+echo no 2
+cat ex02/find_sh.sh
+echo
+ex02/find_sh.sh | cat -e
+echo
+echo no 3
+cat ex03/count_files.sh
+echo 
+ex03/count_files.sh | cat -e
+echo
+echo no 4
+cat ex04/MAC.sh
+echo 
+ex04/MAC.sh
+echo
+echo no 5
+cat 'ex05/"\?$*'\''MaRViN'\''*$?\"'
+echo
+cd ex05
+ls -lRa *MaRV* | cat -e

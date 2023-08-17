@@ -1,0 +1,8 @@
+norminette ./ex03/ft_putchar.c
+norminette ./ex01/ft_print_alphabet.c
+norminette ./ex02/ft_print_reverse_alphabet.c
+norminette ./ex03/ft_print_numbers.c
+norminette ./ex04/ft_is_negative.c
+norminette ./ex05/ft_print_comb.c
+cc main.c
+./a.out

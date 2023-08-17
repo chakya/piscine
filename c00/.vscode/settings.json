@@ -1,0 +1,6 @@
+{
+    "editor.detectIndentation": true,
+    "files.associations": {
+        "limits.h": "c"
+    }
+}

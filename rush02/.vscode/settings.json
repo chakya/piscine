@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"ft_number_dictionary.h": "c",
+		"ft_boolean.h": "c",
+		"stdlib.h": "c",
+		"unistd.h": "c",
+		"ft.h": "c",
+		"fcntl.h": "c",
+		"stdio.h": "c"
+	}
+}

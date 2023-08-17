@@ -1,0 +1,5 @@
+Credentials cache: API:D9C7A63E-0AE5-4FC3-8D29-FA5B1ECAE9BE
+        Principal: pforciol@42.FR
+
+  Issued                Expires               Principal
+Jul  2 14:59:16 2018  Jul  9 14:59:03 2018  krbtgt/42.FR@42.FR
